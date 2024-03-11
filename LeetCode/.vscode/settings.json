@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
